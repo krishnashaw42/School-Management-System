@@ -96,13 +96,3 @@ java Login1
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
